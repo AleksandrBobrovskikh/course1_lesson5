@@ -1,4 +1,5 @@
 package com.geekbrains;
+
 class Person {
 
     String nameSurname;
